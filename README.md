@@ -7,7 +7,7 @@ This is a collection of Jupyter Notebooks to help understand and experimentally 
 
 Currently:
 
-1. [A simple simulation](https://github.com/maxdevblock/model-selection-bias/blob/main/model_selection_bias.ipynb): forward stepwise model selection applied to linear regression
+1. [A simple simulation](https://github.com/maxdevblock/model-selection-bias/blob/main/model_selection_bias.ipynb): forward stepwise model selection applied to linear regression and model selection bias
 
 2. [A simple solution](https://github.com/maxdevblock/model-selection-bias/blob/main/split_the_dataset.ipynb): can the simple solution of splitting the data into two parts (one for the model selection and the other for inference) really solve the model selection bias?
 
