@@ -11,6 +11,8 @@ Currently:
 
 2. [A simple solution](https://github.com/maxdevblock/model-selection-bias/blob/main/split_the_dataset.ipynb): can the simple solution of splitting the data into two parts (one for the model selection and the other for inference) really solve the model selection bias?
 
+3. [Prediction and forecast](https://github.com/maxdevblock/model-selection-bias/blob/main/prediction_forecast.ipynb): does the model selection bias affect prediction/forecast also?
+
 ---
 
 System requirements
